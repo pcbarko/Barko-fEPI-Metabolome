@@ -1,4 +1,4 @@
-# Barko_fEPI_Metabolome
+# Barko fEPI Metabolome
 
 ***WORK IN PROGRESS***
 
